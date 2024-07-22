@@ -1,0 +1,99 @@
+div.main{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+#one center {
+    background-image: url('https://images.unsplash.com/photo-1612057473121-a0af4ad3cd46?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-position: center; 
+    height: 900px;
+    font-size: 20px;
+    padding-top: 20px;
+    color: rgb(255, 255, 255);
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#two center {
+    background-image: url('https://images.unsplash.com/photo-1670736297573-fde2cbcf1de7?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-position: center; 
+    height: 800px;
+    font-size: 20px; 
+    color: white;
+    padding-top: 20px;
+}
+#three center {
+    background-image: url('https://media.istockphoto.com/id/178992587/photo/silver-midsize-car-driving-on-dirt-road.jpg?s=1024x1024&w=is&k=20&c=zQ2IEEl0_SshwP6MF7tVT9IpRGfaDaBTnk49cNirNg0=');
+    background-size: cover;
+    background-position: center; 
+    height: 800px;
+    font-size: 20px; 
+    color: rgb(0, 0, 0);
+    padding-top: 20px;
+}
+#four center {
+    background-image: url('https://images.unsplash.com/photo-1633991431900-08f29dc281ac?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-position: center; 
+    height: 800px;
+    font-size: 20px; 
+    color: black;
+    padding-top: 20px;
+}
+#five center {
+    background-image: url('https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-SolarPanels-01-Desktop');
+    background-size: cover;
+    background-position: center; 
+    height: 800px;
+    font-size: 20px; 
+    color: white;
+    padding-top: 20px;
+}
+#six center {
+    background-image: url('https://media.istockphoto.com/id/1308318231/photo/modern-house-with-solar-panels-and-wall-battery-for-energy-storage.jpg?s=1024x1024&w=is&k=20&c=fOAupB-FWeV7b8etq-IYvngG34tY8WLEL4oe4vsqwWg=');
+    background-size: cover;
+    background-position: center; 
+    height: 800px;
+    font-size: 20px; 
+    color: white;
+    padding-top: 20px;
+}
+#seven center {
+    background-image: url('https://plus.unsplash.com/premium_photo-1697729986719-c1596ba33c08?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-position: center; 
+    height: 800px;
+    font-size: 20px; 
+    color: white;
+    padding-top: 20px;
+}
+#Eight center {
+    background-image: url('https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Accessories-Desktop-NA-APAC.jpg');
+    background-size: cover;
+    background-position: center; 
+    height: 800px;
+    font-size: 20px; 
+    color:black;
+    padding-top: 20px;
+}
+button{
+    margin-top: 500px;
+    margin-left: 80px;
+    font-size: 20px;
+    background-color: black;
+    color: yellow;
+    border-radius: 5px;
+    padding: 20px;
+    width: 250px;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    text-decoration: underline;
+}
+button:active{
+    background-color: rgb(175, 128, 219);
+    color: rgb(0, 0, 0);
+}
+
